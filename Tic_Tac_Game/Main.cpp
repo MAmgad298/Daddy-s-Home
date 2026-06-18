@@ -18,7 +18,7 @@ int main() {
 		if (userIn == 2)
 			TicTac t;
 		; break;
-	default:cout << "Dw, soon will add more games :)\n";
+	default:cout << "n't'inquiète pas, soon will add more games :)\n";
 	}
 
 	return 0;
