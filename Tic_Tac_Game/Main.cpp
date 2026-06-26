@@ -2,12 +2,13 @@
 #include "TicTac.h"
 #include "Dart.h"
 #include "RouletteNumbers.h";
+#include "Hangman.h"
 
 using namespace std;
 int main() {
 	int userIn;
 
-	cout << "Switch a game:\n1.Dart\t2.TicTac\t3.Dice\n";
+	cout << "Switch a game:\n1.Dart\n2.TicTac\n3.Dice\n4.Hangman\n";
 	cin >> userIn;
 
 	switch (userIn) {
@@ -24,8 +25,17 @@ int main() {
 		if (userIn == 3)
 			RouletteNumbers r;
 		break;
+	case 4:
+		if (userIn == 4)
+			Hangman H;
+		break;
 	default:cout << "Dw, soon will add more games :)\n";
 	}
+
+
+	//Hangman H;
+
+
 
 	//cout << 123 % 100;
 

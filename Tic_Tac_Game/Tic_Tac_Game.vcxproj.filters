@@ -27,6 +27,9 @@
     <ClCompile Include="RouletteNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Hangman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TicTac.h">
@@ -38,5 +41,13 @@
     <ClInclude Include="RouletteNumbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Hangman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="movies.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

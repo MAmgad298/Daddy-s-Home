@@ -124,14 +124,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dart.cpp" />
+    <ClCompile Include="Hangman.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="RouletteNumbers.cpp" />
     <ClCompile Include="TicTac.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dart.h" />
+    <ClInclude Include="Hangman.h" />
     <ClInclude Include="RouletteNumbers.h" />
     <ClInclude Include="TicTac.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="movies.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

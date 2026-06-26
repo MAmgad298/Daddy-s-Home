@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|solutionrelative:Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|solutionrelative:Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\movies.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|solutionrelative:movies.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF3B11B-D0DB-49A3-B059-E8611F483D39}|Tic_Tac_Game.vcxproj|C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,24 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RouletteNumbers.cpp",
-              "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.cpp",
-              "RelativeDocumentMoniker": "RouletteNumbers.cpp",
-              "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.cpp",
-              "RelativeToolTip": "RouletteNumbers.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-22T16:11:54.458Z",
+              "DocumentIndex": 3,
+              "Title": "movies.txt",
+              "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\movies.txt",
+              "RelativeDocumentMoniker": "movies.txt",
+              "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\movies.txt",
+              "RelativeToolTip": "movies.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-26T16:43:39.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Hangman.h",
+              "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.h",
+              "RelativeDocumentMoniker": "Hangman.h",
+              "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.h",
+              "RelativeToolTip": "Hangman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-24T18:17:27.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.cpp",
+              "RelativeDocumentMoniker": "Hangman.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Hangman.cpp",
+              "RelativeToolTip": "Hangman.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T18:17:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RouletteNumbers.h",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.h",
               "RelativeDocumentMoniker": "RouletteNumbers.h",
@@ -63,12 +101,11 @@
               "RelativeToolTip": "RouletteNumbers.h",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-22T15:09:57.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T15:09:57.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Dart.h",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Dart.h",
               "RelativeDocumentMoniker": "Dart.h",
@@ -76,12 +113,11 @@
               "RelativeToolTip": "Dart.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-18T07:19:36.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T07:19:36.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Dart.cpp",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Dart.cpp",
               "RelativeDocumentMoniker": "Dart.cpp",
@@ -89,12 +125,11 @@
               "RelativeToolTip": "Dart.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-18T07:19:15.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T07:19:15.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TicTac.h",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\TicTac.h",
               "RelativeDocumentMoniker": "TicTac.h",
@@ -102,12 +137,11 @@
               "RelativeToolTip": "TicTac.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-18T04:21:42.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T04:21:42.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TicTac.cpp",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\TicTac.cpp",
               "RelativeDocumentMoniker": "TicTac.cpp",
@@ -119,16 +153,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-17T21:00:39.366Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouletteNumbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.cpp",
+              "RelativeDocumentMoniker": "RouletteNumbers.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Gamea\\source\\repos\\Tic_Tac_Game\\RouletteNumbers.cpp",
+              "RelativeToolTip": "RouletteNumbers.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-22T16:11:54.458Z"
             }
           ]
         }
