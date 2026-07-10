@@ -126,12 +126,14 @@
     <ClCompile Include="Dart.cpp" />
     <ClCompile Include="Hangman.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="PSR.cpp" />
     <ClCompile Include="RouletteNumbers.cpp" />
     <ClCompile Include="TicTac.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dart.h" />
     <ClInclude Include="Hangman.h" />
+    <ClInclude Include="PSR.h" />
     <ClInclude Include="RouletteNumbers.h" />
     <ClInclude Include="TicTac.h" />
   </ItemGroup>
